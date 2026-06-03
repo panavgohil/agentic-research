@@ -5,3 +5,4 @@ __pycache__/
 data/papers/
 data/faiss_index.bin
 data/chunk_metadata.json
+technical_report.docx
