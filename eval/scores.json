@@ -1,0 +1,11 @@
+[
+  {
+    "config": "baseline",
+    "n": 30,
+    "cit_p": 0.489,
+    "cit_r": 0.483,
+    "cit_f1": 0.482,
+    "avg_tools": 1.1,
+    "avg_latency": 5.9
+  }
+]

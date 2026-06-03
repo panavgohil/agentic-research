@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+
+data/papers/
+data/faiss_index.bin
+data/chunk_metadata.json
